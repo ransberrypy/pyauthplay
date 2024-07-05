@@ -1,5 +1,5 @@
-savedusername = "Precious"
-savedpassword = "Adjeley@16"
+savedusername = "username"
+savedpassword = "password"
 numberoftries = 3
  
 while numberoftries != 0 :
