@@ -1,0 +1,20 @@
+// We want to build a simple python program, that checks a username and password and compares it to the 
+//saved username and password and based on the credentials provided it tells us if we are
+//who we are not not.
+//Allow user to try password or credentials three times
+
+
+1. Create a varibale to hold saved username [done]
+2. Create another variable to hold saved password [done]
+
+3. Ask the user to input username [done]
+4. Ask the user to input password [done]
+
+5. Compare the user input against the saved data [done]
+if the comparison is true [done]
+print Welcome Precious[done]
+else[done]
+    ask user to try again for three times
+    print Sorry i dont know you
+
+
